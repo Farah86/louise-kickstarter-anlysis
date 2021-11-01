@@ -1,2 +1,6 @@
-# louise-kickstarter-anlysis
-analyzing project to see which campaigns will succeed and which one fail
+OVER VIEW OF THE PROJECT :To help Louise read the worksheet in easier way and determine which of the campaign succeeded and which ones failed.
+THE OVER VIEW OF THE ANALYSIS AND THE CHALLANGES:I tried to study the requirments and take notes then go back to the kickstarter sheet and find those requirments , yes actually i found some difficulties in using formulas and try to put my self in Louise place see what i want to see from these charts when i look at them.
+What are two conclusions you can draw about the Outcomes based on Launch Date? that May have the best campaign by 111 and Jun 100.
+What can you conclude about the Outcomes based on Goals?the highest score for the successful precentage we have the 76% for less than 1000 dollar ,the highest score for the failed percentage was 100% for the range (45000 to 49999) and there is no cancelled campaign.
+What are some limitations of this dataset? If we want to check Descriptive Statistics for other countries we gonna need to re do the same process for each country we want.
+what are some other possible tables and/or graphs that we could create?adding one more box plots to vitualize the Descriptive Statistics so we can see the range between mean and median ,Standard Deviation of Goal ,Upper Quartile of Goal ,Lower Quartile of Goal and IQR of Goal.
